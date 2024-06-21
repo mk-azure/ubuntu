@@ -118,7 +118,7 @@
    - To list packages that can be upgraded:
    ```bash
    apt list --upgrable  
-
+   ```
 
 ### Advanced Guide to Package Management in Ubuntu LTS 22.04
 
